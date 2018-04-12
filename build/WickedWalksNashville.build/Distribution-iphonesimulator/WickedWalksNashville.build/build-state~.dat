@@ -1,0 +1,1528 @@
+TWickedWalksNashville
+v7
+r0
+t307844171.965218
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/Info.plist" Info.plist
+cCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageThreeViewController.xib"
+cCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageFiveViewController.xib"
+cCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageFourViewController.xib"
+cCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/MainWindow.xib"
+cCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageOneViewController.xib"
+cCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageTwoViewController.xib"
+cCopyStringsFile "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj/Localizable.strings" en.lproj/Localizable.strings
+cCopyStringsFile "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj/InfoPlist.strings" en.lproj/InfoPlist.strings
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed1.png PinDRed1.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed2.png PinDRed2.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed3.png PinDRed3.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed4.png PinDRed4.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed5.png PinDRed5.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed6.png PinDRed6.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed7.png PinDRed7.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed8.png PinDRed8.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/Playbutton.png Playbutton.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/pausebutton.png pausebutton.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/bp_btn1.png bp_btn1.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/bp_btn2.png bp_btn2.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/volume_up.png volume_up.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/Infobutton.png Infobutton.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/TableViewIcon.png TableViewIcon.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/MapViewIcon.png MapViewIcon.png
+cCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSixViewController.xib"
+cCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSevenViewController.xib"
+cCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/TipsViewController.xib"
+cCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/DirectionsViewController.xib"
+cCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/HelpViewController.xib"
+cCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/AboutViewController.xib"
+cCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/HoursViewController.xib"
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed9.png PinDRed9.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed10.png PinDRed10.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed11.png PinDRed11.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed12.png PinDRed12.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed13.png PinDRed13.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/nolactable1.png nolactable1.png
+cCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/nolac1.mp3 nolac1.mp3
+cProcessPCH /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/main.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageTwoViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageTwoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageOneViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageOneViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/AppDelegate.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageThreeViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageThreeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageFourViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageFourViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageFiveViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageFiveViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/mapViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/mapViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/wwAnnotation.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/wwAnnotation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/wwAnnotationView.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/wwAnnotationView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/tableViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/tableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageSixViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSixViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageSevenViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSevenViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/LargePhotoViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/LargePhotoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/infoViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/infoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/TipsViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/TipsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/DirectionsViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/DirectionsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/HelpViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/HelpViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/AboutViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/AboutViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/HoursViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/HoursViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C60B8290000000000000132
+t1281407017
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C01F5AE00000000000C05A0
+t1275196846
+s787872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004C01F5AA000000000000065C
+t1275196842
+s1628
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004BFDFD850000000000236AB0
+t1274936709
+s2321072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004C047247000000000000027E
+t1275359815
+s638
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04724700000000000002FE
+t1275359815
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C04725B0000000000160350
+t1275359835
+s1442640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/AboutViewController.h
+c000000004C31DD740000000000000110
+t1278336372
+s272
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/AboutViewController.m
+c000000004C69E23000000000000006CE
+t1282007600
+s1742
+i"AboutViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/AboutViewController.xib
+c000000004CA1404B00000000000082D2
+t1285636171
+s33490
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/AppDelegate.h
+c000000004C1C330F00000000000001A6
+t1276916495
+s422
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/AppDelegate.m
+c000000004C9F79B8000000000000058C
+t1285519800
+s1420
+i"AppDelegate.h"
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/Constants.h
+c000000004C1C330F0000000000000143
+t1276916495
+s323
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/DirectionsViewController.h
+c000000004C31DD74000000000000011C
+t1278336372
+s284
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/DirectionsViewController.m
+c000000004C9F77FD00000000000006EC
+t1285519357
+s1772
+i"DirectionsViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/DirectionsViewController.xib
+c000000004C9F8A4C000000000000AF08
+t1285524044
+s44808
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/HelpViewController.h
+c000000004C31DD74000000000000010E
+t1278336372
+s270
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/HelpViewController.m
+c000000004C32202C00000000000006CC
+t1278353452
+s1740
+i"HelpViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/HelpViewController.xib
+c000000004C538CA00000000000007200
+t1280543904
+s29184
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/HoursViewController.h
+c000000004C31DD740000000000000110
+t1278336372
+s272
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/HoursViewController.m
+c000000004C7B0D0700000000000006CE
+t1283132679
+s1742
+i"HoursViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/HoursViewController.xib
+c000000004C9F76E00000000000005B8C
+t1285519072
+s23436
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/Infobutton.png
+c000000004BE224F900000000000003E1
+t1273111801
+s993
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/LargePhotoViewController.h
+c000000004C1C330F0000000000000190
+t1276916495
+s400
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/LargePhotoViewController.m
+c000000004C4E424200000000000004C7
+t1280197186
+s1223
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/MapViewIcon.png
+c000000004B9455ED00000000000000FC
+t1268012525
+s252
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PageFiveViewController.h
+c000000004C64A3F6000000000000039A
+t1281663990
+s922
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PageFiveViewController.m
+c000000004C9FA81900000000000032F9
+t1285531673
+s13049
+i"PageFiveViewController.h"
+i"Constants.h"
+i"PageFourViewController.h"
+i"PageSixViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PageFourViewController.h
+c000000004C64A3F60000000000000399
+t1281663990
+s921
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PageFourViewController.m
+c000000004C9F951B0000000000003309
+t1285526811
+s13065
+i"PageFourViewController.h"
+i"Constants.h"
+i"PageThreeViewController.h"
+i"PageFiveViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PageOneViewController.h
+c000000004C64A3F6000000000000039B
+t1281663990
+s923
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PageOneViewController.m
+c000000004CA91CA70000000000003351
+t1286151335
+s13137
+i"PageSevenViewController.h"
+i"Constants.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSevenViewController.h
+c000000004C64A3F6000000000000039C
+t1281663990
+s924
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSevenViewController.m
+c000000004CA91CA400000000000032F9
+t1286151332
+s13049
+i"PageSevenViewController.h"
+i"Constants.h"
+i"PageSixViewController.h"
+i"PageOneViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSevenViewController.xib
+c000000004C9FAFF90000000000009A60
+t1285533689
+s39520
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSixViewController.h
+c000000004C64A3F60000000000000398
+t1281663990
+s920
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSixViewController.m
+c000000004CA149570000000000003305
+t1285638487
+s13061
+i"PageSixViewController.h"
+i"Constants.h"
+i"PageFiveViewController.h"
+i"PageSevenViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSixViewController.xib
+c000000004CA148B0000000000000991E
+t1285638320
+s39198
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PageThreeViewController.h
+c000000004C64A3F6000000000000039D
+t1281663990
+s925
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PageThreeViewController.m
+c000000004C9F90DC0000000000003303
+t1285525724
+s13059
+i"PageThreeViewController.h"
+i"Constants.h"
+i"PageTwoViewController.h"
+i"PageFourViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PageTwoViewController.h
+c000000004C64A3F60000000000000398
+t1281663990
+s920
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PageTwoViewController.m
+c000000004C9F911500000000000033B5
+t1285525781
+s13237
+i"PageTwoViewController.h"
+i"Constants.h"
+i"PageOneViewController.h"
+i"PageThreeViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed1.png
+c000000004BAE990900000000000009FE
+t1269733641
+s2558
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed10.png
+c000000004BC931F70000000000000A50
+t1271476727
+s2640
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed11.png
+c000000004BC9320D0000000000000A0C
+t1271476749
+s2572
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed12.png
+c000000004BC9321D0000000000000A50
+t1271476765
+s2640
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed13.png
+c000000004C436D150000000000000A4B
+t1279487253
+s2635
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed2.png
+c000000004BAE93160000000000000A38
+t1269732118
+s2616
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed3.png
+c000000004BAE992A0000000000000A43
+t1269733674
+s2627
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed4.png
+c000000004BAE99450000000000000A20
+t1269733701
+s2592
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed5.png
+c000000004BC9316F0000000000000A40
+t1271476591
+s2624
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed6.png
+c000000004BC931870000000000000A42
+t1271476615
+s2626
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed7.png
+c000000004BC9319A0000000000000A28
+t1271476634
+s2600
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed8.png
+c000000004BC931AB0000000000000A5E
+t1271476651
+s2654
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed9.png
+c000000004BC931BD0000000000000A50
+t1271476669
+s2640
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/Playbutton.png
+c000000004BE21F070000000000000154
+t1273110279
+s340
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/Prefix.pch
+c0000000049FB55000000000000000058
+t1241208064
+s88
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/TableViewIcon.png
+c000000004B93EAEB00000000000000BA
+t1267985131
+s186
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/TipsViewController.h
+c000000004C31DD74000000000000010E
+t1278336372
+s270
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/TipsViewController.m
+c000000004C9F782E00000000000006D9
+t1285519406
+s1753
+i"TipsViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/TipsViewController.xib
+c000000004C9F7435000000000000603B
+t1285518389
+s24635
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/bp_btn1.png
+c000000004BB540450000000000000502
+t1270169669
+s1282
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/bp_btn2.png
+c000000004BB540450000000000000501
+t1270169669
+s1281
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app.dSYM
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/AboutViewController.nib
+t1286151365
+s5684
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/DirectionsViewController.nib
+t1286151364
+s7548
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/HelpViewController.nib
+t1286151365
+s5264
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/HoursViewController.nib
+t1286151365
+s3402
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/Info.plist
+t1286151360
+s706
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/Infobutton.png
+t1286151363
+s993
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/MapViewIcon.png
+t1286151363
+s252
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/PageSevenViewController.nib
+t1286151364
+s11941
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/PageSixViewController.nib
+t1286151364
+s11388
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed1.png
+t1286151363
+s2558
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed10.png
+t1286151365
+s2640
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed11.png
+t1286151365
+s2572
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed12.png
+t1286151365
+s2640
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed13.png
+t1286151365
+s2635
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed2.png
+t1286151363
+s2616
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed3.png
+t1286151363
+s2627
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed4.png
+t1286151363
+s2592
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed5.png
+t1286151363
+s2624
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed6.png
+t1286151363
+s2626
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed7.png
+t1286151363
+s2600
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed8.png
+t1286151363
+s2654
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed9.png
+t1286151365
+s2640
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/PkgInfo
+t1286151360
+s8
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/Playbutton.png
+t1286151363
+s340
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/TableViewIcon.png
+t1286151363
+s186
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/TipsViewController.nib
+t1286151364
+s4288
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/WickedWalksNashville
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/bp_btn1.png
+t1286151363
+s1282
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/bp_btn2.png
+t1286151363
+s1281
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj/InfoPlist.strings
+t1286151363
+s209
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj/Localizable.strings
+t1286151363
+s597
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj/MainWindow.nib
+t1286151362
+s6912
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj/PageFiveViewController.nib
+t1286151361
+s9930
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj/PageFourViewController.nib
+t1286151362
+s10401
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj/PageOneViewController.nib
+t1286151363
+s11717
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj/PageThreeViewController.nib
+t1286151361
+s10063
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj/PageTwoViewController.nib
+t1286151363
+s9708
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/nolac1.mp3
+t1286151365
+s3269302
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/nolactable1.png
+t1286151365
+s4278
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/pausebutton.png
+t1286151363
+s224
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/volume_up.png
+t1286151363
+s1180
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/AboutViewController.o
+t1286151371
+s36760
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/AppDelegate.o
+t1286151369
+s48948
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/DirectionsViewController.o
+t1286151371
+s36896
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/HelpViewController.o
+t1286151371
+s36736
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/HoursViewController.o
+t1286151371
+s36760
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/LargePhotoViewController.o
+t1286151371
+s41292
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageFiveViewController.o
+t1286151370
+s76716
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageFourViewController.o
+t1286151370
+s76728
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageOneViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageSevenViewController.o
+t1286151371
+s76832
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageSixViewController.o
+t1286151371
+s76604
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageThreeViewController.o
+t1286151370
+s76828
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageTwoViewController.o
+t1286151370
+s76932
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/TipsViewController.o
+t1286151371
+s36752
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/WickedWalksNashville.LinkFileList
+c000000004CA91CC00000000000000DE0
+t1286151360
+s3552
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/infoViewController.o
+t1286151371
+s52324
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/main.o
+t1286151369
+s6504
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/mapViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/tableViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/wwAnnotation.o
+t1286151370
+s16176
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/wwAnnotationView.o
+t1286151371
+s43992
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/InfoPlist.strings
+c0000000049FB5500000000000000015A
+t1241208064
+s346
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/Localizable.strings
+c000000004C16E729000000000000022A
+t1276569385
+s554
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/MainWindow.xib
+c000000004C9F71AA000000000000BD69
+t1285517738
+s48489
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageFiveViewController.xib
+c000000004C9FA87F0000000000009626
+t1285531775
+s38438
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageFourViewController.xib
+c000000004C9F950F000000000000A876
+t1285526799
+s43126
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageOneViewController.xib
+c000000004CA14170000000000000A233
+t1285636464
+s41523
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageThreeViewController.xib
+c000000004C9F9590000000000000AB17
+t1285526928
+s43799
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageTwoViewController.xib
+c000000004C9F8B2800000000000096AE
+t1285524264
+s38574
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/infoViewController.h
+c000000004C1C330F00000000000001DA
+t1276916495
+s474
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/infoViewController.m
+c000000004CA14C290000000000002081
+t1285639209
+s8321
+i"infoViewController.h"
+i"DirectionsViewController.h"
+i"HelpViewController.h"
+i"AboutViewController.h"
+i"TipsViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/main.m
+c000000004C60C3E3000000000000017C
+t1281410019
+s380
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/mapViewController.h
+c000000004C1C377700000000000002F9
+t1276917623
+s761
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<MapKit/MKAnnotation.h>
+i"wwAnnotation.h"
+i"wwAnnotationView.h"
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/mapViewController.m
+c000000004CA13EE40000000000004649
+t1285635812
+s17993
+i"mapViewController.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"PageSixViewController.h"
+i"PageSevenViewController.h"
+i"PageEightViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/nolac1.mp3
+c000000004CA11960000000000031E2B6
+t1285626208
+s3269302
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/nolactable1.png
+c000000004C6FEB3200000000000010B6
+t1282403122
+s4278
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/pausebutton.png
+c000000004BE2211900000000000000E0
+t1273110809
+s224
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/tableViewController.h
+c000000004C1C377700000000000001DD
+t1276917623
+s477
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/tableViewController.m
+c000000004CA14B360000000000002389
+t1285638966
+s9097
+i"tableViewController.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"PageSixViewController.h"
+i"PageSevenViewController.h"
+i"PageEightViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/volume_up.png
+c0000000049B6E5FE000000000000049C
+t1236723198
+s1180
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/wwAnnotation.h
+c000000004C7B05D00000000000000335
+t1283130832
+s821
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/wwAnnotation.m
+c000000004C1C37770000000000000286
+t1276917623
+s646
+i"wwAnnotation.h"
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/wwAnnotationView.h
+c000000004C1C37780000000000000173
+t1276917624
+s371
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+i"wwAnnotation.h"
+
+N/Users/Diane/Desktop/WickedWalks Nashville Dev/wwAnnotationView.m
+c000000004C7B05D0000000000000123F
+t1283130832
+s4671
+i"wwAnnotationView.h"
+
+N/var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch.gch
+t1286151369
+s14904304
+
+NInfo.plist
+c000000004CA91BC200000000000003E4
+t1286151106
+s996
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307844160#307844160#0(0"0(0#1#0"8636755392#0"0#
+
+CCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/AboutViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/AboutViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844171.822567
+e307844171.921181
+r1
+xCompileC
+xbuild/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/AboutViewController.o
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/AboutViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/Diane/Desktop/WickedWalks Nashville Dev/AboutViewController.m307844171#307844171#0(0"0(0#0#68"/Users/Diane/Desktop/WickedWalks Nashville Dev/AboutViewController.m8638739264#2338"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/AboutViewController.m" -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/AboutViewController.o"0#
+
+CCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/AppDelegate.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844169.744197
+e307844169.862180
+r1
+xCompileC
+xbuild/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/AppDelegate.o
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/Diane/Desktop/WickedWalks Nashville Dev/AppDelegate.m307844169#307844169#0(0"0(0#0#60"/Users/Diane/Desktop/WickedWalks Nashville Dev/AppDelegate.m8639333408#2322"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/AppDelegate.m" -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/AppDelegate.o"0#
+
+CCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/DirectionsViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/DirectionsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844171.676610
+e307844171.762985
+r1
+xCompileC
+xbuild/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/DirectionsViewController.o
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/DirectionsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/Diane/Desktop/WickedWalks Nashville Dev/DirectionsViewController.m307844171#307844171#0(0"0(0#0#73"/Users/Diane/Desktop/WickedWalks Nashville Dev/DirectionsViewController.m8640034496#2348"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/DirectionsViewController.m" -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/DirectionsViewController.o"0#
+
+CCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/HelpViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/HelpViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844171.763085
+e307844171.882099
+r1
+xCompileC
+xbuild/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/HelpViewController.o
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/HelpViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/Diane/Desktop/WickedWalks Nashville Dev/HelpViewController.m307844171#307844171#0(0"0(0#0#67"/Users/Diane/Desktop/WickedWalks Nashville Dev/HelpViewController.m8624014048#2336"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/HelpViewController.m" -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/HelpViewController.o"0#
+
+CCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/HoursViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/HoursViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844171.882207
+e307844171.965140
+r1
+xCompileC
+xbuild/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/HoursViewController.o
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/HoursViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/Diane/Desktop/WickedWalks Nashville Dev/HoursViewController.m307844171#307844171#0(0"0(0#0#68"/Users/Diane/Desktop/WickedWalks Nashville Dev/HoursViewController.m8645573216#2338"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/HoursViewController.m" -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/HoursViewController.o"0#
+
+CCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/LargePhotoViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/LargePhotoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844171.480312
+e307844171.587849
+r1
+xCompileC
+xbuild/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/LargePhotoViewController.o
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/LargePhotoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/Diane/Desktop/WickedWalks Nashville Dev/LargePhotoViewController.m307844171#307844171#0(0"0(0#0#73"/Users/Diane/Desktop/WickedWalks Nashville Dev/LargePhotoViewController.m8648376736#2348"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/LargePhotoViewController.m" -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/LargePhotoViewController.o"0#
+
+CCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageFiveViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageFiveViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844170.273585
+e307844170.688446
+r1
+xCompileC
+xbuild/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageFiveViewController.o
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/PageFiveViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/Diane/Desktop/WickedWalks Nashville Dev/PageFiveViewController.m307844170#307844170#0(0"0(0#0#71"/Users/Diane/Desktop/WickedWalks Nashville Dev/PageFiveViewController.m8639286016#2344"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageFiveViewController.m" -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageFiveViewController.o"0#
+
+CCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageFourViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageFourViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844170.102548
+e307844170.548273
+r1
+xCompileC
+xbuild/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageFourViewController.o
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/PageFourViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/Diane/Desktop/WickedWalks Nashville Dev/PageFourViewController.m307844170#307844170#0(0"0(0#0#71"/Users/Diane/Desktop/WickedWalks Nashville Dev/PageFourViewController.m8642262112#2344"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageFourViewController.m" -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageFourViewController.o"0#
+
+CCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageOneViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageOneViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844169.494771
+e307844169.744101
+r0
+xCompileC
+xbuild/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageOneViewController.o
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/PageOneViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Diane/Desktop/WickedWalks Nashville Dev/PageOneViewController.m: In function '-[PageOneViewController prevController]':
+o/Users/Diane/Desktop/WickedWalks Nashville Dev/PageOneViewController.m:214: error: 'pagesvenVC' undeclared (first use in this function)
+o/Users/Diane/Desktop/WickedWalks Nashville Dev/PageOneViewController.m:214: error: (Each undeclared identifier is reported only once
+o/Users/Diane/Desktop/WickedWalks Nashville Dev/PageOneViewController.m:214: error: for each function it appears in.)
+lSLF07#2@78"Compile /Users/Diane/Desktop/WickedWalks Nashville Dev/PageOneViewController.m307844169#307844169#0(513"/Users/Diane/Desktop/WickedWalks Nashville Dev/PageOneViewController.m: In function '-[PageOneViewController prevController]':/Users/Diane/Desktop/WickedWalks Nashville Dev/PageOneViewController.m:214: error: 'pagesvenVC' undeclared (first use in this function)/Users/Diane/Desktop/WickedWalks Nashville Dev/PageOneViewController.m:214: error: (Each undeclared identifier is reported only once/Users/Diane/Desktop/WickedWalks Nashville Dev/PageOneViewController.m:214: error: for each function it appears in.)1(4@52"'pagesvenVC' undeclared (first use in this function)307844169#127#136#0(6@70"/Users/Diane/Desktop/WickedWalks Nashville Dev/PageOneViewController.m307844135#214#0#214#0#43"'*' undeclared (first use in this function)0(0#0#70"/Users/Diane/Desktop/WickedWalks Nashville Dev/PageOneViewController.m8645475776#2342"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageOneViewController.m" -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageOneViewController.o"1#
+
+CCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageSevenViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSevenViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844171.147866
+e307844171.567172
+r1
+xCompileC
+xbuild/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageSevenViewController.o
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSevenViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/Diane/Desktop/WickedWalks Nashville Dev/PageSevenViewController.m307844171#307844171#0(0"0(0#0#72"/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSevenViewController.m8640309824#2346"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSevenViewController.m" -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageSevenViewController.o"0#
+
+CCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageSixViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSixViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844171.026422
+e307844171.480209
+r1
+xCompileC
+xbuild/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageSixViewController.o
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSixViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/Diane/Desktop/WickedWalks Nashville Dev/PageSixViewController.m307844171#307844171#0(0"0(0#0#70"/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSixViewController.m8647267104#2342"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSixViewController.m" -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageSixViewController.o"0#
+
+CCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageThreeViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageThreeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844169.862577
+e307844170.273465
+r1
+xCompileC
+xbuild/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageThreeViewController.o
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/PageThreeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/Diane/Desktop/WickedWalks Nashville Dev/PageThreeViewController.m307844169#307844170#0(0"0(0#0#72"/Users/Diane/Desktop/WickedWalks Nashville Dev/PageThreeViewController.m8637424800#2346"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageThreeViewController.m" -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageThreeViewController.o"0#
+
+CCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageTwoViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageTwoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844169.275718
+e307844170.102449
+r1
+xCompileC
+xbuild/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageTwoViewController.o
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/PageTwoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/Diane/Desktop/WickedWalks Nashville Dev/PageTwoViewController.m307844169#307844170#0(0"0(0#0#70"/Users/Diane/Desktop/WickedWalks Nashville Dev/PageTwoViewController.m8637218784#2342"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageTwoViewController.m" -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/PageTwoViewController.o"0#
+
+CCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/TipsViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/TipsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844171.587954
+e307844171.676503
+r1
+xCompileC
+xbuild/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/TipsViewController.o
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/TipsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/Diane/Desktop/WickedWalks Nashville Dev/TipsViewController.m307844171#307844171#0(0"0(0#0#67"/Users/Diane/Desktop/WickedWalks Nashville Dev/TipsViewController.m8640878368#2336"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/TipsViewController.m" -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/TipsViewController.o"0#
+
+CCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/infoViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/infoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844171.567284
+e307844171.822459
+r1
+xCompileC
+xbuild/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/infoViewController.o
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/infoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/Diane/Desktop/WickedWalks Nashville Dev/infoViewController.m307844171#307844171#0(0"0(0#0#67"/Users/Diane/Desktop/WickedWalks Nashville Dev/infoViewController.m8641743392#2336"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/infoViewController.m" -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/infoViewController.o"0#
+
+CCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/main.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844169.274592
+e307844169.494634
+r1
+xCompileC
+xbuild/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/main.o
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Diane/Desktop/WickedWalks Nashville Dev/main.m307844169#307844169#0(0"0(0#0#53"/Users/Diane/Desktop/WickedWalks Nashville Dev/main.m8640473664#2308"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/main.m" -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/mapViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/mapViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844170.548379
+e307844170.911723
+r0
+xCompileC
+xbuild/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/mapViewController.o
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/mapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Diane/Desktop/WickedWalks Nashville Dev/mapViewController.m:17:36: error: PageEightViewController.h: No such file or directory
+o/Users/Diane/Desktop/WickedWalks Nashville Dev/mapViewController.m: In function '-[mapViewController showLinks:]':
+o/Users/Diane/Desktop/WickedWalks Nashville Dev/mapViewController.m:386: error: 'PageEightViewController' undeclared (first use in this function)
+o/Users/Diane/Desktop/WickedWalks Nashville Dev/mapViewController.m:386: error: (Each undeclared identifier is reported only once
+o/Users/Diane/Desktop/WickedWalks Nashville Dev/mapViewController.m:386: error: for each function it appears in.)
+lSLF07#2@74"Compile /Users/Diane/Desktop/WickedWalks Nashville Dev/mapViewController.m307844170#307844170#0(636"/Users/Diane/Desktop/WickedWalks Nashville Dev/mapViewController.m:17:36: error: PageEightViewController.h: No such file or directory/Users/Diane/Desktop/WickedWalks Nashville Dev/mapViewController.m: In function '-[mapViewController showLinks:]':/Users/Diane/Desktop/WickedWalks Nashville Dev/mapViewController.m:386: error: 'PageEightViewController' undeclared (first use in this function)/Users/Diane/Desktop/WickedWalks Nashville Dev/mapViewController.m:386: error: (Each undeclared identifier is reported only once/Users/Diane/Desktop/WickedWalks Nashville Dev/mapViewController.m:386: error: for each function it appears in.)2(4@52"PageEightViewController.h: No such file or directory307844170#0#134#0(6@66"/Users/Diane/Desktop/WickedWalks Nashville Dev/mapViewController.m307328612#17#0#17#0#28"*: No such file or directory0(4@65"'PageEightViewController' undeclared (first use in this function)307844170#249#145#0(6@66"/Users/Diane/Desktop/WickedWalks Nashville Dev/mapViewController.m307328612#386#0#386#0#43"'*' undeclared (first use in this function)0(0#0#66"/Users/Diane/Desktop/WickedWalks Nashville Dev/mapViewController.m8638846688#2334"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/mapViewController.m" -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/mapViewController.o"1#
+
+CCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/tableViewController.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/tableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844170.911807
+e307844171.026320
+r0
+xCompileC
+xbuild/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/tableViewController.o
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/tableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Diane/Desktop/WickedWalks Nashville Dev/tableViewController.m:17:36: error: PageEightViewController.h: No such file or directory
+o/Users/Diane/Desktop/WickedWalks Nashville Dev/tableViewController.m: In function '-[tableViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/Diane/Desktop/WickedWalks Nashville Dev/tableViewController.m:212: error: 'PageEightViewController' undeclared (first use in this function)
+o/Users/Diane/Desktop/WickedWalks Nashville Dev/tableViewController.m:212: error: (Each undeclared identifier is reported only once
+o/Users/Diane/Desktop/WickedWalks Nashville Dev/tableViewController.m:212: error: for each function it appears in.)
+lSLF07#2@76"Compile /Users/Diane/Desktop/WickedWalks Nashville Dev/tableViewController.m307844170#307844171#0(672"/Users/Diane/Desktop/WickedWalks Nashville Dev/tableViewController.m:17:36: error: PageEightViewController.h: No such file or directory/Users/Diane/Desktop/WickedWalks Nashville Dev/tableViewController.m: In function '-[tableViewController tableView:didSelectRowAtIndexPath:]':/Users/Diane/Desktop/WickedWalks Nashville Dev/tableViewController.m:212: error: 'PageEightViewController' undeclared (first use in this function)/Users/Diane/Desktop/WickedWalks Nashville Dev/tableViewController.m:212: error: (Each undeclared identifier is reported only once/Users/Diane/Desktop/WickedWalks Nashville Dev/tableViewController.m:212: error: for each function it appears in.)2(4@52"PageEightViewController.h: No such file or directory307844170#0#136#0(6@68"/Users/Diane/Desktop/WickedWalks Nashville Dev/tableViewController.m307331766#17#0#17#0#28"*: No such file or directory0(4@65"'PageEightViewController' undeclared (first use in this function)307844171#279#147#0(6@68"/Users/Diane/Desktop/WickedWalks Nashville Dev/tableViewController.m307331766#212#0#212#0#43"'*' undeclared (first use in this function)0(0#0#68"/Users/Diane/Desktop/WickedWalks Nashville Dev/tableViewController.m8642264192#2338"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/tableViewController.m" -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/tableViewController.o"1#
+
+CCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/wwAnnotation.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/wwAnnotation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844170.688547
+e307844170.908020
+r1
+xCompileC
+xbuild/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/wwAnnotation.o
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/wwAnnotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/Diane/Desktop/WickedWalks Nashville Dev/wwAnnotation.m307844170#307844170#0(0"0(0#0#61"/Users/Diane/Desktop/WickedWalks Nashville Dev/wwAnnotation.m8647712128#2324"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/wwAnnotation.m" -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/wwAnnotation.o"0#
+
+CCompileC build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/wwAnnotationView.o "/Users/Diane/Desktop/WickedWalks Nashville Dev/wwAnnotationView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844170.908356
+e307844171.147767
+r1
+xCompileC
+xbuild/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/wwAnnotationView.o
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/wwAnnotationView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Diane/Desktop/WickedWalks Nashville Dev/wwAnnotationView.m307844170#307844171#0(0"0(0#0#65"/Users/Diane/Desktop/WickedWalks Nashville Dev/wwAnnotationView.m8637647680#2332"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/wwAnnotationView.m" -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/Objects-normal/i386/wwAnnotationView.o"0#
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/AboutViewController.xib"
+s307844164.846218
+e307844165.304207
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/AboutViewController.xib
+lSLF07#2@34"CompileXIB AboutViewController.xib307844164#307844165#0(0"0(0#0#70"/Users/Diane/Desktop/WickedWalks Nashville Dev/AboutViewController.xib8646510976#638"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/AboutViewController.nib" "/Users/Diane/Desktop/WickedWalks Nashville Dev/AboutViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/DirectionsViewController.xib"
+s307844164.261947
+e307844164.846131
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/DirectionsViewController.xib
+lSLF07#2@39"CompileXIB DirectionsViewController.xib307844164#307844164#0(0"0(0#0#75"/Users/Diane/Desktop/WickedWalks Nashville Dev/DirectionsViewController.xib8636712384#648"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/DirectionsViewController.nib" "/Users/Diane/Desktop/WickedWalks Nashville Dev/DirectionsViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/HelpViewController.xib"
+s307844164.665909
+e307844165.138371
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/HelpViewController.xib
+lSLF07#2@33"CompileXIB HelpViewController.xib307844164#307844165#0(0"0(0#0#69"/Users/Diane/Desktop/WickedWalks Nashville Dev/HelpViewController.xib8649406784#636"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/HelpViewController.nib" "/Users/Diane/Desktop/WickedWalks Nashville Dev/HelpViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/HoursViewController.xib"
+s307844165.138464
+e307844165.559419
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/HoursViewController.xib
+lSLF07#2@34"CompileXIB HoursViewController.xib307844165#307844165#0(0"0(0#0#70"/Users/Diane/Desktop/WickedWalks Nashville Dev/HoursViewController.xib8642183040#638"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/HoursViewController.nib" "/Users/Diane/Desktop/WickedWalks Nashville Dev/HoursViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSevenViewController.xib"
+s307844163.692818
+e307844164.261850
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSevenViewController.xib
+lSLF07#2@38"CompileXIB PageSevenViewController.xib307844163#307844164#0(0"0(0#0#74"/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSevenViewController.xib8637627296#646"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/PageSevenViewController.nib" "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSevenViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSixViewController.xib"
+s307844163.689081
+e307844164.226079
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSixViewController.xib
+lSLF07#2@36"CompileXIB PageSixViewController.xib307844163#307844164#0(0"0(0#0#72"/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSixViewController.xib8637862240#642"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/PageSixViewController.nib" "/Users/Diane/Desktop/WickedWalks Nashville Dev/PageSixViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/TipsViewController.xib"
+s307844164.226276
+e307844164.665815
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/TipsViewController.xib
+lSLF07#2@33"CompileXIB TipsViewController.xib307844164#307844164#0(0"0(0#0#69"/Users/Diane/Desktop/WickedWalks Nashville Dev/TipsViewController.xib8636969056#636"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/TipsViewController.nib" "/Users/Diane/Desktop/WickedWalks Nashville Dev/TipsViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/MainWindow.xib"
+s307844162.028140
+e307844162.805305
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib307844162#307844162#0(0"0(0#0#70"/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/MainWindow.xib8641182976#638"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj/MainWindow.nib" "/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageFiveViewController.xib"
+s307844160.917664
+e307844161.993157
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageFiveViewController.xib
+lSLF07#2@46"CompileXIB en.lproj/PageFiveViewController.xib307844160#307844161#0(0"0(0#0#82"/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageFiveViewController.xib8622289920#662"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj/PageFiveViewController.nib" "/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageFiveViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageFourViewController.xib"
+s307844161.993253
+e307844162.598704
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageFourViewController.xib
+lSLF07#2@46"CompileXIB en.lproj/PageFourViewController.xib307844161#307844162#0(0"0(0#0#82"/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageFourViewController.xib8641779264#662"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj/PageFourViewController.nib" "/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageFourViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageOneViewController.xib"
+s307844162.598923
+e307844163.153900
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageOneViewController.xib
+lSLF07#2@45"CompileXIB en.lproj/PageOneViewController.xib307844162#307844163#0(0"0(0#0#81"/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageOneViewController.xib8640185504#660"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj/PageOneViewController.nib" "/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageOneViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageThreeViewController.xib"
+s307844160.916628
+e307844162.028036
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageThreeViewController.xib
+lSLF07#2@47"CompileXIB en.lproj/PageThreeViewController.xib307844160#307844162#0(0"0(0#0#83"/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageThreeViewController.xib8624083040#664"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj/PageThreeViewController.nib" "/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageThreeViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageTwoViewController.xib"
+s307844162.805406
+e307844163.450413
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageTwoViewController.xib
+lSLF07#2@45"CompileXIB en.lproj/PageTwoViewController.xib307844162#307844163#0(0"0(0#0#81"/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageTwoViewController.xib8639610432#660"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj/PageTwoViewController.nib" "/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/PageTwoViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCopyStringsFile "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj/InfoPlist.strings" en.lproj/InfoPlist.strings
+s307844163.450514
+e307844163.632724
+r1
+xCopyStringsFile
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj/InfoPlist.strings
+xen.lproj/InfoPlist.strings
+oen.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@31"Copy en.lproj/InfoPlist.strings307844163#307844163#0(128"en.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#73"/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/InfoPlist.strings8647999744#523"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/InfoPlist.strings --outdir "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj"0#
+
+CCopyStringsFile "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj/Localizable.strings" en.lproj/Localizable.strings
+s307844163.153997
+e307844163.640185
+r1
+xCopyStringsFile
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+lSLF07#2@33"Copy en.lproj/Localizable.strings307844163#307844163#0(0"0(0#0#75"/Users/Diane/Desktop/WickedWalks Nashville Dev/en.lproj/Localizable.strings8639012224#525"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/Localizable.strings --outdir "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/en.lproj"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/Infobutton.png Infobutton.png
+s307844163.682518
+e307844163.688702
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/Infobutton.png
+xInfobutton.png
+lSLF07#2@19"Copy Infobutton.png307844163#307844163#0(0"0(0#0#61"/Users/Diane/Desktop/WickedWalks Nashville Dev/Infobutton.png8641022496#529"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/Infobutton.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/MapViewIcon.png MapViewIcon.png
+s307844163.687389
+e307844163.692008
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/MapViewIcon.png
+xMapViewIcon.png
+lSLF07#2@20"Copy MapViewIcon.png307844163#307844163#0(0"0(0#0#62"/Users/Diane/Desktop/WickedWalks Nashville Dev/MapViewIcon.png8637991040#530"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/MapViewIcon.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed1.png PinDRed1.png
+s307844163.632818
+e307844163.675665
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed1.png
+xPinDRed1.png
+lSLF07#2@17"Copy PinDRed1.png307844163#307844163#0(0"0(0#0#59"/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed1.png8641669600#527"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed1.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed10.png PinDRed10.png
+s307844165.305206
+e307844165.327574
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed10.png
+xPinDRed10.png
+lSLF07#2@18"Copy PinDRed10.png307844165#307844165#0(0"0(0#0#60"/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed10.png8640352544#528"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed10.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed11.png PinDRed11.png
+s307844165.309509
+e307844165.327681
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed11.png
+xPinDRed11.png
+lSLF07#2@18"Copy PinDRed11.png307844165#307844165#0(0"0(0#0#60"/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed11.png8639551808#528"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed11.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed12.png PinDRed12.png
+s307844165.313673
+e307844165.327786
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed12.png
+xPinDRed12.png
+lSLF07#2@18"Copy PinDRed12.png307844165#307844165#0(0"0(0#0#60"/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed12.png8638739648#528"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed12.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed13.png PinDRed13.png
+s307844165.318028
+e307844165.327888
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed13.png
+xPinDRed13.png
+lSLF07#2@18"Copy PinDRed13.png307844165#307844165#0(0"0(0#0#60"/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed13.png8638234688#528"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed13.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed2.png PinDRed2.png
+s307844163.633943
+e307844163.675921
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed2.png
+xPinDRed2.png
+lSLF07#2@17"Copy PinDRed2.png307844163#307844163#0(0"0(0#0#59"/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed2.png8640493280#527"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed2.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed3.png PinDRed3.png
+s307844163.634687
+e307844163.688581
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed3.png
+xPinDRed3.png
+lSLF07#2@17"Copy PinDRed3.png307844163#307844163#0(0"0(0#0#59"/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed3.png8640036064#527"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed3.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed4.png PinDRed4.png
+s307844163.635295
+e307844163.676027
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed4.png
+xPinDRed4.png
+lSLF07#2@17"Copy PinDRed4.png307844163#307844163#0(0"0(0#0#59"/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed4.png8639680224#527"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed4.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed5.png PinDRed5.png
+s307844163.635990
+e307844163.688805
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed5.png
+xPinDRed5.png
+lSLF07#2@17"Copy PinDRed5.png307844163#307844163#0(0"0(0#0#59"/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed5.png8638926944#527"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed5.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed6.png PinDRed6.png
+s307844163.637122
+e307844163.676135
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed6.png
+xPinDRed6.png
+lSLF07#2@17"Copy PinDRed6.png307844163#307844163#0(0"0(0#0#59"/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed6.png8632365248#527"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed6.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed7.png PinDRed7.png
+s307844163.637743
+e307844163.688912
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed7.png
+xPinDRed7.png
+lSLF07#2@17"Copy PinDRed7.png307844163#307844163#0(0"0(0#0#59"/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed7.png8628883552#527"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed7.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed8.png PinDRed8.png
+s307844163.638351
+e307844163.689018
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed8.png
+xPinDRed8.png
+lSLF07#2@17"Copy PinDRed8.png307844163#307844163#0(0"0(0#0#59"/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed8.png8625055584#527"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed8.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed9.png PinDRed9.png
+s307844165.304302
+e307844165.327459
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/PinDRed9.png
+xPinDRed9.png
+lSLF07#2@17"Copy PinDRed9.png307844165#307844165#0(0"0(0#0#59"/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed9.png8641099136#527"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/PinDRed9.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/Playbutton.png Playbutton.png
+s307844163.638965
+e307844163.676253
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/Playbutton.png
+xPlaybutton.png
+lSLF07#2@19"Copy Playbutton.png307844163#307844163#0(0"0(0#0#61"/Users/Diane/Desktop/WickedWalks Nashville Dev/Playbutton.png8623663744#529"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/Playbutton.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/TableViewIcon.png TableViewIcon.png
+s307844163.683367
+e307844163.692752
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/TableViewIcon.png
+xTableViewIcon.png
+lSLF07#2@22"Copy TableViewIcon.png307844163#307844163#0(0"0(0#0#64"/Users/Diane/Desktop/WickedWalks Nashville Dev/TableViewIcon.png8638271360#532"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/TableViewIcon.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/bp_btn1.png bp_btn1.png
+s307844163.676330
+e307844163.688261
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/bp_btn1.png
+xbp_btn1.png
+lSLF07#2@16"Copy bp_btn1.png307844163#307844163#0(0"0(0#0#58"/Users/Diane/Desktop/WickedWalks Nashville Dev/bp_btn1.png8609990016#526"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/bp_btn1.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/bp_btn2.png bp_btn2.png
+s307844163.677079
+e307844163.688373
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/bp_btn2.png
+xbp_btn2.png
+lSLF07#2@16"Copy bp_btn2.png307844163#307844163#0(0"0(0#0#58"/Users/Diane/Desktop/WickedWalks Nashville Dev/bp_btn2.png8646694720#526"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/bp_btn2.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/nolac1.mp3 nolac1.mp3
+s307844165.326532
+e307844165.507382
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/nolac1.mp3
+xnolac1.mp3
+lSLF07#2@15"Copy nolac1.mp3307844165#307844165#0(0"0(0#0#57"/Users/Diane/Desktop/WickedWalks Nashville Dev/nolac1.mp38637750560#525"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/nolac1.mp3" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/nolactable1.png nolactable1.png
+s307844165.321395
+e307844165.334751
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/nolactable1.png
+xnolactable1.png
+lSLF07#2@20"Copy nolactable1.png307844165#307844165#0(0"0(0#0#62"/Users/Diane/Desktop/WickedWalks Nashville Dev/nolactable1.png8637930880#530"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/nolactable1.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/pausebutton.png pausebutton.png
+s307844163.640253
+e307844163.675811
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/pausebutton.png
+xpausebutton.png
+lSLF07#2@20"Copy pausebutton.png307844163#307844163#0(0"0(0#0#62"/Users/Diane/Desktop/WickedWalks Nashville Dev/pausebutton.png8616407072#530"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/pausebutton.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNashville.app/volume_up.png volume_up.png
+s307844163.681542
+e307844163.688478
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/WickedWalksNashville.app/volume_up.png
+xvolume_up.png
+lSLF07#2@18"Copy volume_up.png307844163#307844163#0(0"0(0#0#60"/Users/Diane/Desktop/WickedWalks Nashville Dev/volume_up.png8645451904#528"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalks Nashville Dev/volume_up.png" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"0#
+
+CGenerateDSYMFile "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app.dSYM" "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/WickedWalksNashville"
+r0
+
+CLd "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/WickedWalksNashville" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/Info.plist" Info.plist
+s307844160.882415
+e307844160.916530
+r1
+xProcessInfoPlistFile
+x/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist307844160#307844160#0(0"0(0#0#57"/Users/Diane/Desktop/WickedWalks Nashville Dev/Info.plist8632269664#541"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app/Info.plist"0#
+
+CProcessPCH /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s307844165.559535
+e307844169.274338
+r1
+xProcessPCH
+x/var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch307844165#307844169#0(0"0(0#0#57"/Users/Diane/Desktop/WickedWalks Nashville Dev/Prefix.pch8632335840#2149"    cd "/Users/Diane/Desktop/WickedWalks Nashville Dev"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-generated-files.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-own-target-headers.hmap" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-all-target-headers.hmap" -iquote "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/WickedWalksNashville-project-headers.hmap" "-F/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/include" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources/i386" "-I/Users/Diane/Desktop/WickedWalks Nashville Dev/build/WickedWalksNashville.build/Distribution-iphonesimulator/WickedWalksNashville.build/DerivedSources" -c "/Users/Diane/Desktop/WickedWalks Nashville Dev/Prefix.pch" -o /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-efhknpvbcefzcpdneaojscfumrlp/Prefix.pch.gch0#
+
+CTouch "/Users/Diane/Desktop/WickedWalks Nashville Dev/build/Distribution-iphonesimulator/WickedWalksNashville.app"
+r0
+
