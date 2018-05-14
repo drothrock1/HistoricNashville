@@ -11,6 +11,10 @@
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
 		1D60589E0D05DD5A006BFB54 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DC4B2650D05D9C8003A8154 /* CoreFoundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		419761B5208F7EC80075DC41 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 419761B4208F7EC80075DC41 /* CoreLocation.framework */; };
+		419761C5208FC5A30075DC41 /* InfoScreen-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 419761C4208FC5A20075DC41 /* InfoScreen-568h@2x.png */; };
+		419761C7208FC5B00075DC41 /* InfoScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 419761C6208FC5B00075DC41 /* InfoScreen.png */; };
+		419761C9208FC5C40075DC41 /* InfoScreen480.png in Resources */ = {isa = PBXBuildFile; fileRef = 419761C8208FC5C40075DC41 /* InfoScreen480.png */; };
 		531F16A70D6367A3003D33FB /* PageTwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 531F16970D6367A3003D33FB /* PageTwoViewController.m */; };
 		531F16A80D6367A3003D33FB /* PageOneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 531F16980D6367A3003D33FB /* PageOneViewController.m */; };
 		531F16A90D6367A3003D33FB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 531F16990D6367A3003D33FB /* AppDelegate.m */; };
@@ -50,20 +54,8 @@
 		C414EF6D1E9C244800DD3120 /* nolactable11.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF6C1E9C244800DD3120 /* nolactable11.png */; };
 		C414EF6F1E9C245200DD3120 /* nolactable12.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF6E1E9C245200DD3120 /* nolactable12.png */; };
 		C414EF711E9C253700DD3120 /* nolactable10.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF701E9C253700DD3120 /* nolactable10.png */; };
-		C414EF731E9C261000DD3120 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF721E9C261000DD3120 /* Default-568h@2x.png */; };
-		C414EF751E9C262400DD3120 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF741E9C262400DD3120 /* Default@2x.png */; };
-		C414EF771E9C262E00DD3120 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF761E9C262E00DD3120 /* Default.png */; };
-		C414EF791E9C2A5900DD3120 /* InfoScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF781E9C2A5900DD3120 /* InfoScreen.png */; };
-		C414EF7B1E9C2A6900DD3120 /* InfoScreen@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF7A1E9C2A6900DD3120 /* InfoScreen@2x.png */; };
-		C414EF7D1E9C2A7100DD3120 /* InfoScreen-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF7C1E9C2A7100DD3120 /* InfoScreen-568h@2x.png */; };
-		C414EF7F1E9C2CBF00DD3120 /* Icon29.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF7E1E9C2CBF00DD3120 /* Icon29.png */; };
-		C414EF831E9C2CD200DD3120 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF821E9C2CD200DD3120 /* Icon.png */; };
-		C414EF851E9C2CD900DD3120 /* Icon58.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF841E9C2CD900DD3120 /* Icon58.png */; };
-		C414EF871E9C2CE100DD3120 /* Icon60.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF861E9C2CE100DD3120 /* Icon60.png */; };
-		C414EF891E9C2CE900DD3120 /* Icon80.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF881E9C2CE900DD3120 /* Icon80.png */; };
-		C414EF8B1E9C2CF000DD3120 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF8A1E9C2CF000DD3120 /* Icon@2x.png */; };
-		C414EF8D1E9C2CF800DD3120 /* Icon120.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF8C1E9C2CF800DD3120 /* Icon120.png */; };
-		C414EF8F1E9C2CFE00DD3120 /* Icon180.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF8E1E9C2CFE00DD3120 /* Icon180.png */; };
+		C414EF831E9C2CD200DD3120 /* Icon57.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF821E9C2CD200DD3120 /* Icon57.png */; };
+		C414EF8B1E9C2CF000DD3120 /* Icon57@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF8A1E9C2CF000DD3120 /* Icon57@2x.png */; };
 		C414EF911E9C2D8100DD3120 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C414EF901E9C2D8100DD3120 /* Images.xcassets */; };
 		C414EF931E9D4CA700DD3120 /* Capitol Building.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF921E9D4CA700DD3120 /* Capitol Building.png */; };
 		C414EF951E9D4CAF00DD3120 /* Jackson statue.png in Resources */ = {isa = PBXBuildFile; fileRef = C414EF941E9D4CAF00DD3120 /* Jackson statue.png */; };
@@ -175,6 +167,10 @@
 		1DC4B2650D05D9C8003A8154 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		419761B4208F7EC80075DC41 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		419761C4208FC5A20075DC41 /* InfoScreen-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InfoScreen-568h@2x.png"; sourceTree = "<group>"; };
+		419761C6208FC5B00075DC41 /* InfoScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InfoScreen.png; sourceTree = "<group>"; };
+		419761C8208FC5C40075DC41 /* InfoScreen480.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InfoScreen480.png; sourceTree = "<group>"; };
 		531F16910D63677B003D33FB /* Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
 		531F16970D6367A3003D33FB /* PageTwoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageTwoViewController.m; sourceTree = "<group>"; };
 		531F16980D6367A3003D33FB /* PageOneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageOneViewController.m; sourceTree = "<group>"; };
@@ -223,20 +219,8 @@
 		C414EF6C1E9C244800DD3120 /* nolactable11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nolactable11.png; sourceTree = "<group>"; };
 		C414EF6E1E9C245200DD3120 /* nolactable12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nolactable12.png; sourceTree = "<group>"; };
 		C414EF701E9C253700DD3120 /* nolactable10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nolactable10.png; sourceTree = "<group>"; };
-		C414EF721E9C261000DD3120 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		C414EF741E9C262400DD3120 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
-		C414EF761E9C262E00DD3120 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
-		C414EF781E9C2A5900DD3120 /* InfoScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InfoScreen.png; sourceTree = "<group>"; };
-		C414EF7A1E9C2A6900DD3120 /* InfoScreen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InfoScreen@2x.png"; sourceTree = "<group>"; };
-		C414EF7C1E9C2A7100DD3120 /* InfoScreen-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InfoScreen-568h@2x.png"; sourceTree = "<group>"; };
-		C414EF7E1E9C2CBF00DD3120 /* Icon29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon29.png; sourceTree = "<group>"; };
-		C414EF821E9C2CD200DD3120 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
-		C414EF841E9C2CD900DD3120 /* Icon58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon58.png; sourceTree = "<group>"; };
-		C414EF861E9C2CE100DD3120 /* Icon60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon60.png; sourceTree = "<group>"; };
-		C414EF881E9C2CE900DD3120 /* Icon80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon80.png; sourceTree = "<group>"; };
-		C414EF8A1E9C2CF000DD3120 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
-		C414EF8C1E9C2CF800DD3120 /* Icon120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon120.png; sourceTree = "<group>"; };
-		C414EF8E1E9C2CFE00DD3120 /* Icon180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon180.png; sourceTree = "<group>"; };
+		C414EF821E9C2CD200DD3120 /* Icon57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon57.png; sourceTree = "<group>"; };
+		C414EF8A1E9C2CF000DD3120 /* Icon57@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon57@2x.png"; sourceTree = "<group>"; };
 		C414EF901E9C2D8100DD3120 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = WickedWalksNashville/Images.xcassets; sourceTree = "<group>"; };
 		C414EF921E9D4CA700DD3120 /* Capitol Building.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Capitol Building.png"; sourceTree = "<group>"; };
 		C414EF941E9D4CAF00DD3120 /* Jackson statue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Jackson statue.png"; sourceTree = "<group>"; };
@@ -365,6 +349,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				419761B5208F7EC80075DC41 /* CoreLocation.framework in Frameworks */,
 				1D60589E0D05DD5A006BFB54 /* CoreFoundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				1D3623EC0D0F72F000981E51 /* CoreGraphics.framework in Frameworks */,
@@ -413,20 +398,11 @@
 			isa = PBXGroup;
 			children = (
 				C414EF901E9C2D8100DD3120 /* Images.xcassets */,
-				C414EF761E9C262E00DD3120 /* Default.png */,
-				C414EF741E9C262400DD3120 /* Default@2x.png */,
-				C414EF721E9C261000DD3120 /* Default-568h@2x.png */,
-				C414EF781E9C2A5900DD3120 /* InfoScreen.png */,
-				C414EF7A1E9C2A6900DD3120 /* InfoScreen@2x.png */,
-				C414EF7C1E9C2A7100DD3120 /* InfoScreen-568h@2x.png */,
-				C414EF7E1E9C2CBF00DD3120 /* Icon29.png */,
-				C414EF821E9C2CD200DD3120 /* Icon.png */,
-				C414EF841E9C2CD900DD3120 /* Icon58.png */,
-				C414EF861E9C2CE100DD3120 /* Icon60.png */,
-				C414EF881E9C2CE900DD3120 /* Icon80.png */,
-				C414EF8A1E9C2CF000DD3120 /* Icon@2x.png */,
-				C414EF8C1E9C2CF800DD3120 /* Icon120.png */,
-				C414EF8E1E9C2CFE00DD3120 /* Icon180.png */,
+				419761C8208FC5C40075DC41 /* InfoScreen480.png */,
+				419761C6208FC5B00075DC41 /* InfoScreen.png */,
+				419761C4208FC5A20075DC41 /* InfoScreen-568h@2x.png */,
+				C414EF821E9C2CD200DD3120 /* Icon57.png */,
+				C414EF8A1E9C2CF000DD3120 /* Icon57@2x.png */,
 				C4C2D2081A2BA62B008CFC55 /* back12.png */,
 				C4C2D20A1A2BA639008CFC55 /* forward12.png */,
 				C42BAFBF11BF369300D9F604 /* InfoXIB */,
@@ -447,6 +423,7 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				419761B4208F7EC80075DC41 /* CoreLocation.framework */,
 				C485162C11AE1A7C00549246 /* MapKit.framework */,
 				C485162211AE1A6B00549246 /* AVFoundation.framework */,
 				1D3623EB0D0F72F000981E51 /* CoreGraphics.framework */,
@@ -726,10 +703,16 @@
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0510;
+				LastUpgradeCheck = 0930;
 				TargetAttributes = {
 					1D6058900D05DD3D006BFB54 = {
 						DevelopmentTeam = 5G4385EGEP;
+						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.Maps.iOS = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -758,7 +741,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C414EF831E9C2CD200DD3120 /* Icon.png in Resources */,
+				C414EF831E9C2CD200DD3120 /* Icon57.png in Resources */,
 				537204D40DC28C260048CDA2 /* PageFourViewController.xib in Resources */,
 				C414EFE51E9D4E5200DD3120 /* Frist Center.png in Resources */,
 				537204D50DC28C260048CDA2 /* PageSixViewController.xib in Resources */,
@@ -777,8 +760,8 @@
 				537204D80DC28C260048CDA2 /* PageOneViewController.xib in Resources */,
 				537204D90DC28C260048CDA2 /* PageThreeViewController.xib in Resources */,
 				C414EFBD1E9D4D7B00DD3120 /* Nashville sit-ins.png in Resources */,
+				419761C9208FC5C40075DC41 /* InfoScreen480.png in Resources */,
 				537204DE0DC28C310048CDA2 /* Localizable.strings in Resources */,
-				C414EF8F1E9C2CFE00DD3120 /* Icon180.png in Resources */,
 				C414EFAD1E9D4D2D00DD3120 /* Slave family.png in Resources */,
 				C414EFC51E9D4D9C00DD3120 /* Downtown Church Inside.png in Resources */,
 				537204DF0DC28C310048CDA2 /* InfoPlist.strings in Resources */,
@@ -803,7 +786,6 @@
 				C414EFDF1E9D4E2500DD3120 /* Bettie Page.png in Resources */,
 				C485183B11B0A40500549246 /* Playbutton.png in Resources */,
 				C414EFCB1E9D4DBC00DD3120 /* Prohibition disposal.png in Resources */,
-				C414EF8D1E9C2CF800DD3120 /* Icon120.png in Resources */,
 				C414EF9B1E9D4CCD00DD3120 /* Sam Davis Monument.png in Resources */,
 				C485183D11B0A40F00549246 /* pausebutton.png in Resources */,
 				C414EF651E9C241800DD3120 /* nolactable7.png in Resources */,
@@ -813,7 +795,6 @@
 				C485184311B0A42B00549246 /* volume_up.png in Resources */,
 				C414EFD91E9D4E0600DD3120 /* Kristofferson, Nelson, Jennings.png in Resources */,
 				C414EFC11E9D4D8B00DD3120 /* Civil War hospital.png in Resources */,
-				C414EF891E9C2CE900DD3120 /* Icon80.png in Resources */,
 				C485184611B0A43B00549246 /* Infobutton.png in Resources */,
 				C4851B2011B4864000549246 /* TableViewIcon.png in Resources */,
 				C414EFE11E9D4E2E00DD3120 /* Hume Fogg High School.png in Resources */,
@@ -835,7 +816,6 @@
 				C41EFDDF11FE69A00026DD31 /* PinDRed13.png in Resources */,
 				C414EF4F1E8EFFA100DD3120 /* nolac5.mp3 in Resources */,
 				C414EFE91E9D4E6300DD3120 /* Herbert Hoover.png in Resources */,
-				C414EF751E9C262400DD3120 /* Default@2x.png in Resources */,
 				C414EF611E9C23F400DD3120 /* nolactable5.png in Resources */,
 				C414EFB11E9D4D4200DD3120 /* Hermitage Hotel.png in Resources */,
 				C414EF431E8EFF4F00DD3120 /* nolac11.mp3 in Resources */,
@@ -845,41 +825,35 @@
 				C414EF451E8EFF5A00DD3120 /* nolac4.mp3 in Resources */,
 				C414EFA51E9D4CFF00DD3120 /* St Mary's.png in Resources */,
 				C414EFD31E9D4DE800DD3120 /* Stringbean Akeman.png in Resources */,
+				419761C7208FC5B00075DC41 /* InfoScreen.png in Resources */,
 				C414EFC31E9D4D9300DD3120 /* Downtown Presbyterian Church.png in Resources */,
 				C414EF671E9C242000DD3120 /* nolactable8.png in Resources */,
 				C414EF411E8EFF4200DD3120 /* nolac6.mp3 in Resources */,
-				C414EF8B1E9C2CF000DD3120 /* Icon@2x.png in Resources */,
-				C414EF7D1E9C2A7100DD3120 /* InfoScreen-568h@2x.png in Resources */,
-				C414EF871E9C2CE100DD3120 /* Icon60.png in Resources */,
+				C414EF8B1E9C2CF000DD3120 /* Icon57@2x.png in Resources */,
 				C414EF9D1E9D4CD500DD3120 /* William Strickland.png in Resources */,
 				C414EFEB1E9D4E6D00DD3120 /* Great Train Wreck.png in Resources */,
 				C414EF711E9C253700DD3120 /* nolactable10.png in Resources */,
-				C414EF7F1E9C2CBF00DD3120 /* Icon29.png in Resources */,
 				C414EFF11E9D4E8B00DD3120 /* 12-Union-Station.png in Resources */,
 				C414EF5B1E9C23CC00DD3120 /* nolactable2.png in Resources */,
 				C414EFC71E9D4DA500DD3120 /* Winged sun disk.png in Resources */,
 				C414EF971E9D4CB700DD3120 /* James and Sarah Polk.png in Resources */,
 				C414EF471E8EFF7000DD3120 /* nolac10.mp3 in Resources */,
 				C414EFEF1E9D4E8200DD3120 /* Union Station lobby.png in Resources */,
-				C414EF7B1E9C2A6900DD3120 /* InfoScreen@2x.png in Resources */,
 				C414EF691E9C242F00DD3120 /* nolactable9.png in Resources */,
 				C414EF551E8EFFBE00DD3120 /* nolac12.mp3 in Resources */,
 				C414EF951E9D4CAF00DD3120 /* Jackson statue.png in Resources */,
 				C414EF5D1E9C23DA00DD3120 /* nolactable3.png in Resources */,
+				419761C5208FC5A30075DC41 /* InfoScreen-568h@2x.png in Resources */,
 				C414EF591E9C23C000DD3120 /* nolactable1.png in Resources */,
-				C414EF791E9C2A5900DD3120 /* InfoScreen.png in Resources */,
 				C4C2D20B1A2BA639008CFC55 /* forward12.png in Resources */,
 				C414F0011E9EACEB00DD3120 /* PageTenViewController.xib in Resources */,
-				C414EF731E9C261000DD3120 /* Default-568h@2x.png in Resources */,
 				C4E3A88A16DC15DE00733178 /* PageTwoViewController.xib in Resources */,
 				C414EFFC1E9EACB900DD3120 /* PageNineViewController.xib in Resources */,
 				C414EFCF1E9D4DD100DD3120 /* Patsy Cline.png in Resources */,
 				C414EFAB1E9D4D2500DD3120 /* Slave auction 1861.png in Resources */,
 				C414EFCD1E9D4DC300DD3120 /* Repeal of prohibition.png in Resources */,
-				C414EF771E9C262E00DD3120 /* Default.png in Resources */,
 				C414EF511E8EFFAC00DD3120 /* nolac2.mp3 in Resources */,
 				C414EF6F1E9C245200DD3120 /* nolactable12.png in Resources */,
-				C414EF851E9C2CD900DD3120 /* Icon58.png in Resources */,
 				C414EF4D1E8EFF9600DD3120 /* nolac8.mp3 in Resources */,
 				C414EF631E9C240B00DD3120 /* nolactable6.png in Resources */,
 				C414EF4B1E8EFF8B00DD3120 /* nolac7.mp3 in Resources */,
@@ -1000,20 +974,26 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_BITCODE = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Applications;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = wickedWalksNashville;
 				PRODUCT_NAME = "Historic Nashville";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -1023,18 +1003,24 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Applications;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = wickedWalksNashville;
 				PRODUCT_NAME = "Historic Nashville";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -1043,11 +1029,37 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_BITCODE = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = WickedWalksNashville;
 				PROVISIONING_PROFILE = "";
@@ -1059,11 +1071,36 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_BITCODE = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 			};
@@ -1073,11 +1110,36 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_BITCODE = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_NAME = WickedWalksNashville;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
@@ -1089,18 +1151,24 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Applications;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = wickedWalksNashville;
 				PRODUCT_NAME = "Historic Nashville";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Distribution;

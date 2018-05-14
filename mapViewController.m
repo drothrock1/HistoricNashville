@@ -19,6 +19,8 @@
 #import "PageTenViewController.h"
 #import "PageElevenViewController.h"
 #import "PageTwelveViewController.h"
+#import <CoreLocation/CoreLocation.h>
+
 
 #define MAPSETTINGSSTARTHEIGHT			-50.0
 #define MAPSETTINGSSHOWHEIGHT			0.0
@@ -33,6 +35,7 @@
 @implementation mapViewController
 
 @synthesize mapView;
+@synthesize locationManager;
 
 -(void)viewWillAppear:(BOOL)animated {
 	NSLog (@"mapview viewwillappear executed");
@@ -41,36 +44,13 @@
 	
 }
 
--(IBAction)toggleUserLocation:(UISegmentedControl *)segmentPick	{
-	NSLog (@"mapview toggleuserlocation executed");
-	switch (segmentPick.selectedSegmentIndex) 
-	{
-				case 0:
-					mapView.showsUserLocation = TRUE; //plain mapview
-					UIAlertView *alertON = [[UIAlertView alloc] initWithTitle:@"Your Location" message:@"GPS location is turned ON"delegate:nil cancelButtonTitle:@"OK" otherButtonTitles: nil];
-					[alertON show];
-					[alertON release];
-					break;
-				case 1:
-
-					mapView.showsUserLocation = FALSE; //satellite					
-					UIAlertView *alertOFF = [[UIAlertView alloc] initWithTitle:@"Your Location" message:@"GPS location is turned OFF" delegate:nil cancelButtonTitle:@"OK" otherButtonTitles: nil];
-					[alertOFF show];
-					[alertOFF release];
-					break;
-				default:
-					break;
-	}
-}
-
-
 - (void)viewDidLoad {
 	[super viewDidLoad];
     NSArray *ver = [[UIDevice currentDevice].systemVersion componentsSeparatedByString:@"."];
     if ([[ver objectAtIndex:0] intValue] >= 7) {
         self.navigationController.navigationBar.barTintColor = [UIColor blackColor];
         self.navigationController.navigationBar.translucent = NO;
-        self.navigationController.navigationBar.titleTextAttributes = @{UITextAttributeTextColor : [UIColor whiteColor]};
+        self.navigationController.navigationBar.titleTextAttributes = @{NSForegroundColorAttributeName : [UIColor whiteColor]};
         self.navigationController.navigationBar.tintColor = [UIColor whiteColor];
     }
     
@@ -82,7 +62,22 @@
     else {
         self.navigationController.navigationBar.tintColor = [UIColor blackColor];
     }
-	
+    {
+        // Create the location manager
+        
+        self.locationManager = [[CLLocationManager alloc] init];
+        self.locationManager.delegate = self;
+        if ([self.locationManager respondsToSelector:@selector(requestWhenInUseAuthorization)]) {
+            [self.locationManager requestWhenInUseAuthorization];
+        }
+        self.locationManager.desiredAccuracy = kCLLocationAccuracyBest;
+        self.locationManager.distanceFilter = 10; //meters
+        
+        
+        [self.locationManager startUpdatingLocation];
+        
+    }
+    
 	[mapView setZoomEnabled:YES];
 	[mapView setScrollEnabled:YES];
 
@@ -262,7 +257,20 @@
 
 
 }
-
+// Delegate method from the CLLocationManagerDelegate
+- (void)locationManager:(CLLocationManager *)manager
+     didUpdateLocations:(NSArray *)locations {
+    // If it's a relatively recent event, turn off updates to save power.
+    CLLocation* location = [locations lastObject];
+    NSDate* eventDate = location.timestamp;
+    NSTimeInterval howRecent = [eventDate timeIntervalSinceNow];
+    if (fabs(howRecent) < 15.0) {
+        // If the event is recent, do something with it.
+        NSLog(@"latitude %+.6f, longitude %+.6f\n",
+              location.coordinate.latitude,
+              location.coordinate.longitude);
+    }
+}
 - (MKAnnotationView *) mapView:(MKMapView *)theMapView viewForAnnotation:(id <MKAnnotation>) annotation {
 	int postag = 0;
 	wwAnnotationView *annotationView = nil;
@@ -425,8 +433,8 @@
 
 
 - (IBAction)showLinks:(id)sender {
-	int nrbuttonPressed = ((UIButton *)sender).tag;
-		NSLog(@"nrbuttonpressed value: %i",nrbuttonPressed);
+	NSInteger nrbuttonPressed = ((UIButton *)sender).tag;
+    NSLog(@"nrbuttonpressed value: %li",(long)nrbuttonPressed);
 	if (nrbuttonPressed < 99999) {
 		
 		if (nrbuttonPressed == 1){
@@ -530,7 +538,7 @@
 	UISegmentedControl *locationControl = [[UISegmentedControl alloc] initWithItems:[NSArray arrayWithObjects:@"GPS On",@"GPS Off",nil]];
 	locationControl.frame = CGRectMake(25, 7, 120, 30);
 	[locationControl addTarget:self action:@selector(toggleUserLocation:) forControlEvents:UIControlEventValueChanged];
-	locationControl.segmentedControlStyle = UISegmentedControlStyleBar;
+//	locationControl.segmentedControlStyle = UISegmentedControlStyleBar;
 	locationControl.momentary = NO;
 	//locationControl.tintColor = [UIColor blackColor];
 	[mapSettingsView addSubview:locationControl];
@@ -539,7 +547,7 @@
 	UISegmentedControl *mapTypeControl = [[UISegmentedControl alloc] initWithItems:[NSArray arrayWithObjects:@"Map",@"Satellite",nil]];
 	mapTypeControl.frame = CGRectMake(175, 7, 120, 30);
 	[mapTypeControl addTarget:self action:@selector(mapType:) forControlEvents:UIControlEventValueChanged];
-	mapTypeControl.segmentedControlStyle = UISegmentedControlStyleBar;
+//	mapTypeControl.segmentedControlStyle = UISegmentedControlStyleBar;
 	mapTypeControl.momentary = NO;
 	[mapSettingsView addSubview:mapTypeControl];
 	[mapTypeControl release];
@@ -579,6 +587,27 @@
 	[childController2 release];
 }
 */
+-(IBAction)toggleUserLocation:(UISegmentedControl *)segmentPick    {
+    NSLog (@"mapview toggleuserlocation executed");
+    switch (segmentPick.selectedSegmentIndex)
+    {
+        case 0:
+            mapView.showsUserLocation = TRUE; //plain mapview
+            UIAlertView *alertON = [[UIAlertView alloc] initWithTitle:@"Your Location" message:@"GPS location is turned ON"delegate:nil cancelButtonTitle:@"OK" otherButtonTitles: nil];
+            [alertON show];
+            [alertON release];
+            break;
+        case 1:
+            
+            mapView.showsUserLocation = FALSE; //satellite
+            UIAlertView *alertOFF = [[UIAlertView alloc] initWithTitle:@"Your Location" message:@"GPS location is turned OFF" delegate:nil cancelButtonTitle:@"OK" otherButtonTitles: nil];
+            [alertOFF show];
+            [alertOFF release];
+            break;
+        default:
+            break;
+    }
+}
 
 - (void)didReceiveMemoryWarning {
 	NSLog (@"mapviewcontroller didreceive memory warning");
